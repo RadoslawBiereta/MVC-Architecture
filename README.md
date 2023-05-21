@@ -15,4 +15,5 @@
 
 ## Opis architektury
 * W tym projekcie wykorzystana jest architektura Model-View-Controller (MVC). Kontroler jest pośrednikiem między modelem a widokiem. Model zawiera dane, które są przetwarzane, a widok prezentuje wynik. Kontroler odbiera zdarzenia od widoku i przekazuje je do modelu, a następnie aktualizuje widok na podstawie zmian w modelu.
+
 ![Architektura MVC](https://github.com/RadoslawBiereta/MVC-Architecture/blob/main/MVC.png)
